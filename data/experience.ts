@@ -7,7 +7,7 @@ export type ExperienceItem = {
 
 export const experiences: ExperienceItem[] = [
   {
-    period: "2023 – 2026",
+    period: "2025 – 2026",
     title: "Licence en Génie Informatique et Programmation",
     organization: "INTEC SUP, Bamako",
     description:
