@@ -34,8 +34,10 @@ export default async function Image() {
         </div>
 
         <div style={{ display: "flex", flexDirection: "column", gap: 24 }}>
+          {/* Correction ici : ajout de display: "flex" */}
           <div
             style={{
+              display: "flex",
               fontSize: 72,
               fontWeight: 700,
               color: "#1a1a1a",
